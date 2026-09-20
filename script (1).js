@@ -9,7 +9,7 @@
 const CONFIG = {
   // رقم واتساب بصيغة دولية بدون + وبدون صفر البداية
   // السعودية 9665xxxxxxxx · مصر 2010xxxxxxxx · الإمارات 9715xxxxxxx
-  whatsapp: "966500000000",
+  whatsapp: "954102812",
   storeName: "Camp Store",
   freeShipping: 500,          // الحد الأدنى للشحن المجاني
   email: "hello@campstore.com"
